@@ -1,0 +1,645 @@
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.AssemblyReference.cache
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfoInputs.cache
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfo.cs
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CoreCompileInputs.cache
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Domain.deps.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Domain.runtimeconfig.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Domain.exe
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Services.deps.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Repository.deps.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Repository.exe
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Services.exe
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\appsettings.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.exe
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.deps.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.runtimeconfig.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.pdb
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Domain.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Repository.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Services.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Domain.pdb
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Services.pdb
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\bin\Debug\net7.0\Repository.pdb
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.VongQuay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.build.VongQuay.props
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VongQuay.props
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VongQuay.props
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\scopedcss\bundle\VongQuay.styles.css
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CopyComplete
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\refint\VongQuay.dll
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.pdb
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.genruntimeconfig.cache
+C:\Users\tcmin\source\repos\VongQuay\VongQuay\obj\Debug\net7.0\ref\VongQuay.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Domain.runtimeconfig.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Domain.exe
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Services.deps.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Repository.deps.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Repository.exe
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Services.exe
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.exe
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.deps.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.runtimeconfig.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.pdb
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Domain.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Repository.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Services.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Domain.pdb
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Services.pdb
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\Repository.pdb
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.VongQuay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.build.VongQuay.props
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VongQuay.props
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VongQuay.props
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\scopedcss\bundle\VongQuay.styles.css
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CopyComplete
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\refint\VongQuay.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.pdb
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\obj\Debug\net7.0\ref\VongQuay.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\MailKit.dll
+C:\Users\Administrator\Desktop\VongQuay (1)\VongQuay\VongQuay\bin\Debug\net7.0\MimeKit.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\appsettings.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Domain.deps.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Domain.runtimeconfig.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Domain.exe
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Services.deps.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Repository.deps.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Repository.exe
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Services.exe
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.exe
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.deps.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.runtimeconfig.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.pdb
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\MailKit.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\MimeKit.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Domain.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Repository.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Services.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Domain.pdb
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Services.pdb
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Repository.pdb
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.AssemblyReference.cache
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfoInputs.cache
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfo.cs
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CoreCompileInputs.cache
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.VongQuay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.build.VongQuay.props
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VongQuay.props
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VongQuay.props
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\scopedcss\bundle\VongQuay.styles.css
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CopyComplete
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\refint\VongQuay.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.pdb
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.genruntimeconfig.cache
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\obj\Debug\net7.0\ref\VongQuay.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tcmin\Documents\Zalo Received Files\VongQuay\VongQuay\bin\Debug\net7.0\System.CodeDom.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\appsettings.Development.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Domain.deps.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Domain.runtimeconfig.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Domain.exe
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Services.deps.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Services.runtimeconfig.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Repository.deps.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Repository.runtimeconfig.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Repository.exe
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Services.exe
+E:\VongQuay\VongQuay\bin\Debug\net7.0\appsettings.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.exe
+E:\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.deps.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.runtimeconfig.json
+E:\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\VongQuay.pdb
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Azure.Core.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Azure.Identity.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Humanizer.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\MailKit.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\MimeKit.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\System.CodeDom.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\System.Memory.Data.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Domain.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Repository.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Services.dll
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Domain.pdb
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Services.pdb
+E:\VongQuay\VongQuay\bin\Debug\net7.0\Repository.pdb
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.AssemblyReference.cache
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.GeneratedMSBuildEditorConfig.editorconfig
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfoInputs.cache
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfo.cs
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CoreCompileInputs.cache
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cs
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cache
+E:\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.VongQuay.Microsoft.AspNetCore.StaticWebAssets.props
+E:\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.build.VongQuay.props
+E:\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VongQuay.props
+E:\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VongQuay.props
+E:\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.pack.json
+E:\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.build.json
+E:\VongQuay\VongQuay\obj\Debug\net7.0\staticwebassets.development.json
+E:\VongQuay\VongQuay\obj\Debug\net7.0\scopedcss\bundle\VongQuay.styles.css
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CopyComplete
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.dll
+E:\VongQuay\VongQuay\obj\Debug\net7.0\refint\VongQuay.dll
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.pdb
+E:\VongQuay\VongQuay\obj\Debug\net7.0\VongQuay.genruntimeconfig.cache
+E:\VongQuay\VongQuay\obj\Debug\net7.0\ref\VongQuay.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\appsettings.Development.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.deps.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.runtimeconfig.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.exe
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.deps.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.runtimeconfig.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.deps.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.runtimeconfig.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.exe
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.exe
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\appsettings.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.exe
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.deps.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.runtimeconfig.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.pdb
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Azure.Core.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Azure.Identity.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Humanizer.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\MailKit.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\MimeKit.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\System.CodeDom.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.pdb
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.pdb
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.pdb
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.csproj.AssemblyReference.cache
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfoInputs.cache
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfo.cs
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CoreCompileInputs.cache
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cs
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cache
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.VongQuay.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.build.VongQuay.props
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VongQuay.props
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VongQuay.props
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets.build.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets.development.json
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\scopedcss\bundle\VongQuay.styles.css
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CopyComplete
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\refint\VongQuay.dll
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.pdb
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.genruntimeconfig.cache
+E:\Bsmart\luckywheel\apiluckywheel\VongQuay\obj\Debug\net7.0\ref\VongQuay.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.deps.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.runtimeconfig.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.exe
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.deps.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.deps.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.exe
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.exe
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.exe
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\appsettings.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.deps.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.runtimeconfig.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\VongQuay.pdb
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\MailKit.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\MimeKit.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Domain.pdb
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Services.pdb
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\bin\Debug\net7.0\Repository.pdb
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.csproj.AssemblyReference.cache
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfoInputs.cache
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfo.cs
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CoreCompileInputs.cache
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.VongQuay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.build.VongQuay.props
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VongQuay.props
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VongQuay.props
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\scopedcss\bundle\VongQuay.styles.css
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CopyComplete
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\refint\VongQuay.dll
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.pdb
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\VongQuay.genruntimeconfig.cache
+C:\Users\tcmin\source\repos\apiluckywheel\VongQuay\obj\Debug\net7.0\ref\VongQuay.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Domain.deps.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Domain.runtimeconfig.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Domain.exe
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Services.deps.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Repository.deps.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Repository.exe
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Services.exe
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\VongQuay.exe
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\appsettings.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\VongQuay.deps.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\VongQuay.runtimeconfig.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\VongQuay.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\VongQuay.pdb
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\MailKit.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\MimeKit.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Domain.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Repository.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Services.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Domain.pdb
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Services.pdb
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\bin\Debug\net7.0\Repository.pdb
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.csproj.AssemblyReference.cache
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfoInputs.cache
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.AssemblyInfo.cs
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CoreCompileInputs.cache
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.VongQuay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.build.VongQuay.props
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VongQuay.props
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VongQuay.props
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\scopedcss\bundle\VongQuay.styles.css
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.csproj.CopyComplete
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\refint\VongQuay.dll
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.pdb
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\VongQuay.genruntimeconfig.cache
+C:\Users\tcmin\source\repos\Api_Lucky_Wheel\VongQuay\obj\Debug\net7.0\ref\VongQuay.dll
